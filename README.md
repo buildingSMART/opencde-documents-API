@@ -1,11 +1,10 @@
 [![Official repository by buildingSMART International](https://img.shields.io/badge/buildingSMART-Official%20Repository-orange.svg)](https://www.buildingsmart.org/)
 [![This repo is managed by the BCF Implementers Group](https://img.shields.io/badge/-BCF%20Implementers%20Group-blue.svg)](https://img.shields.io/badge/-BCF%20Implementers%20Group-blue.svg)
 
+
 [Swagger / OpenAPI Specification](./swagger.yaml). To view an interactive version of the Swagger specification, you can go to [Swagger Hub](https://app.swaggerhub.com/apis/buildingSMART/Documents-API/1.0).
 
-# Documents API
-
-<img src="./Images/CDE_Logo.png" width="200" height="200">
+![buildingSMART_RGB_DocumentsAPI_v4](https://github.com/user-attachments/assets/c1ce292e-da74-4d3c-9d57-aa5d725db681)
 
 The Documents API is designed to streamline the process of downloading and uploading files to a common data environment (CDE). This specification details the _selection_ or _discovery_, _download_ and _upload_ of files. When supported by both client and server, it provides an easy to use and integrated way of syncing cloud stored documents from within local applications. For the purpose of this specification, _a document_ consists of a file and its metadata. The scope of the Documents API includes all file types; the scope is not limited to building information models.
 
